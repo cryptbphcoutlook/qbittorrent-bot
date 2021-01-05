@@ -1,6 +1,5 @@
 python-telegram-bot==11.1.0
 python-qbittorrent>=0.4.2
-pathlib2
 pathlib
 toml
 requests
